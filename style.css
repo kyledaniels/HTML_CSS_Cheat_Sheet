@@ -5,3 +5,7 @@ nav {
 body {
     background-color: rgb(234, 226, 238);
 }
+
+table,th,td {
+    border: 2px solid black;
+}
